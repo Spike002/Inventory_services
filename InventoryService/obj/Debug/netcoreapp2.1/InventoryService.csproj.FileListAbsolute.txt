@@ -1,0 +1,5 @@
+/Users/soravathmengseng/Desktop/C#._ASP.net/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.csproj.CoreCompileInputs.cache
+/Users/soravathmengseng/Desktop/C#._ASP.net/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.RazorAssemblyInfo.cache
+/Users/soravathmengseng/Desktop/C#._ASP.net/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.RazorAssemblyInfo.cs
+/Users/soravathmengseng/Desktop/C#._ASP.net/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.AssemblyInfoInputs.cache
+/Users/soravathmengseng/Desktop/C#._ASP.net/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.AssemblyInfo.cs

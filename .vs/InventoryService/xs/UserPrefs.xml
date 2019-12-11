@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4C4F4F61-0411-4A7E-90AA-045775A33BF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.InventoryService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InventoryService/Startup.cs">
+    <Files>
+      <File FileName="InventoryService/Services/InventoryServices.cs" Line="12" Column="10" />
+      <File FileName="InventoryService/Services/IInentoryServices.cs" Line="4" Column="40" />
+      <File FileName="InventoryService/Models/InventoryItems.cs" Line="1" Column="1" />
+      <File FileName="InventoryService/Controllers/InventoryController.cs" Line="1" Column="1" />
+      <File FileName="InventoryService/Program.cs" Line="1" Column="1" />
+      <File FileName="InventoryService/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventoryService" expanded="True">
+            <Node name="InventoryService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
